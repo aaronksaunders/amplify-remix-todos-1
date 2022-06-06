@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todolistclone-staging-205649-authRole",
+      "UnauthRoleArn": "arn:aws:iam::000691573582:role/amplify-todolistclone-staging-205649-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::000691573582:role/amplify-todolistclone-staging-205649-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-todolistclone-staging-205649-deployment",
+      "UnauthRoleName": "amplify-todolistclone-staging-205649-unauthRole",
+      "StackName": "amplify-todolistclone-staging-205649",
+      "StackId": "arn:aws:cloudformation:us-east-1:000691573582:stack/amplify-todolistclone-staging-205649/c0f531a0-afa2-11ec-a41e-0a7f234b925f",
+      "AmplifyAppId": "d2c1xf99wsrk9r"
+    },
+    "categories": {
+      "auth": {
+        "todolistclone": {}
+      }
+    }
+  }
+}

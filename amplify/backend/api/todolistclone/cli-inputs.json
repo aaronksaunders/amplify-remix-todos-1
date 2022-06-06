@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todolistclone",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/spittela/Desktop/code/amplify-todoist/amplify/backend/api/todolistclone/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AMAZON_COGNITO_USER_POOLS",
+        "cognitoUserPoolId": "authtodolistclone"
+      }
+    ]
+  }
+}
