@@ -1,6 +1,13 @@
-# Welcome to Remix!
+# Working with Remix: AWS Amplify Authentication Using Authenticator UI and AppSync Integration
+
+code sample of integrating AWS Amplify with a Remix Application. We show how to implement complete authentication flows to your application with minimal boilerplate. We then make a database query using the AWS Appsync API to retrieve data.
+
 
 - [Remix Docs](https://remix.run/docs)
+- [Remix Cookie Package](https://remix.run/docs/en/v1/api/remix#cookies)
+- [AWS Amplify Web Client SDK](https://docs.amplify.aws/cli/start/install/)
+- [AWS Amplify Node SDK](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html)
+- [AWS Amplify UI Components](https://ui.docs.amplify.aws/react/components/authenticator)
 
 ## Development
 
