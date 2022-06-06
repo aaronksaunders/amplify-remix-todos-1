@@ -2,6 +2,8 @@
 
 code sample of integrating AWS Amplify with a Remix Application. We show how to implement complete authentication flows to your application with minimal boilerplate. We then make a database query using the AWS Appsync API to retrieve data.
 
+- Video - https://youtu.be/1XN-vZYd2_I
+
 
 - [Remix Docs](https://remix.run/docs)
 - [Remix Cookie Package](https://remix.run/docs/en/v1/api/remix#cookies)
